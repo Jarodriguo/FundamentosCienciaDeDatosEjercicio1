@@ -11,7 +11,7 @@ Dashboard interactivo que simula y analiza condiciones meteorológicas diarias e
 
 ---
 
-## ⚠️ Sobre los datos
+## Sobre los datos
 
 **Los datos de esta aplicación son 100% sintéticos y se generan dentro de la propia app.** No provienen de ninguna estación meteorológica ni entidad oficial, y no deben usarse para decisiones reales de gestión del riesgo. Para información oficial del Valle de Aburrá están el [SIATA](https://siata.gov.co/) y el DAGRAN.
 
